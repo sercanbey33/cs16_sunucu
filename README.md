@@ -70,10 +70,6 @@ pkg update
 pkg install python -y
 ```
 
-```bash
-pkg install python
-```
-
 ## 3. Git Paketini yükle (Dosyayı yüklemek için)
 
 ```bash
