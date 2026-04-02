@@ -83,7 +83,7 @@ git clone https://github.com/sercanbey33/cs16_sunucu.git
 ```
 
 ```bash
-cd cs16-sunucu
+cd cs16_sunucu
 ```
 
 ## 5. Çalıştır 
