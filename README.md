@@ -40,6 +40,10 @@ cs16_sunucu/
 - Root Gerektirmez - Sadece normal kullanıcı yetkileriyle çalışır.
 
 - RCON Şifresi Gerekir - Sunucunun  server.cfg 'sinde  rcon_password  ayarı olmalı
+
+- Kötüye Kullanım Olursa Kullanıcı Sorunludur.
+
+  
 ---
 
 ### 🔧 Sunucu Ayarları (server.cfg)
