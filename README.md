@@ -79,7 +79,7 @@ pkg install git
 ## 4. Repoyu Clonla
 
 ```bash
-git clone https://github.com/sercanbey33/cs16-sunucu.git
+git clone https://github.com/sercanbey33/cs16_sunucu.git
 ```
 
 ```bash
