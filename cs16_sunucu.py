@@ -220,7 +220,7 @@ class CS16RCON:
         """İnteraktif menü"""
         print("""
 ╔══════════════════════════════════════════════════════════════╗
-║           CS 1.6 RCON YÖNETİM ARACI - TERMUX  by SeRCaN BeY                ║
+║           CS 1.6 RCON YÖNETİM ARACI - TERMUX  by SeRCaN BeY                                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  1. Sunucu Durumu (status)                                    ║
 ║  2. Oyuncu Listesi                                            ║
@@ -240,8 +240,8 @@ class CS16RCON:
 def main():
     print("""
 ╔══════════════════════════════════════════════════════════════╗
-║       COUNTER-STRIKE 1.6 RCON YÖNETİM ARACI                  ║
-║              Termux için - Root Gerektirmez by SeRCaN BeY             ║
+║       COUNTER-STRIKE 1.6 RCON YÖNETİM ARACI                                                           ║
+║              Termux için - Root Gerektirmez by SeRCaN BeY                                             ║
 ╚══════════════════════════════════════════════════════════════╝
     """)
 
