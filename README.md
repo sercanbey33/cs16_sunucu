@@ -5,8 +5,8 @@ Counter Strike 1.6 Sunucunuzu Yönetmenizi ve İzlemenizi Sağlayan Sistem
 ### 📁 Dosyalar
 
 ```
-nxyflux-cs16-sunucu/
-├── nxyfluxsifre.py
+cs16_sunucu/
+├── cs16_sunucu.py
 ├── README.md
 └── LICENSE
 ```
