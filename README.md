@@ -1,3 +1,4 @@
+![NxYFLuXlogo](./cs16_sunucu.jpg)
 Counter Strike 1.6 Sunucunuzu Yönetmenizi ve İzlemenizi Sağlayan Sistem
 
 ---
@@ -7,6 +8,7 @@ Counter Strike 1.6 Sunucunuzu Yönetmenizi ve İzlemenizi Sağlayan Sistem
 ```
 cs16_sunucu/
 ├── cs16_sunucu.py
+├── cs16_sunucu.jpg
 ├── README.md
 └── LICENSE
 ```
