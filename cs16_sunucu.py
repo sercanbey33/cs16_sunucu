@@ -173,17 +173,19 @@ class CS16RCON:
 
     def set_hostname(self, name):
         """Sunucu ismini değiştir"""
-        result = self.execute(f"hostname "{name}"")
+        # HATA DÜZELTİLDİ: İçerideki tırnaklar tek tırnak yapıldı
+        result = self.execute(f"hostname '{name}'")
         print(f"Sunucu ismi değiştirildi: {name}")
         return result
 
     def set_password(self, password):
         """Sunucu şifresini değiştir"""
         if password:
-            result = self.execute(f"sv_password "{password}"")
+            # HATA DÜZELTİLDİ: İçerideki tırnaklar tek tırnak yapıldı
+            result = self.execute(f"sv_password '{password}'")
             print(f"Sunucu şifresi ayarlandı: {password}")
         else:
-            result = self.execute("sv_password """)
+            result = self.execute("sv_password ''")
             print("Sunucu şifresi kaldırıldı")
         return result
 
